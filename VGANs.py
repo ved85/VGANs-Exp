@@ -154,3 +154,4 @@ if __name__ == "__main__":
 
     # After training, generate some images with the saved model
     load_generator_and_generate(num_images=16)
+
